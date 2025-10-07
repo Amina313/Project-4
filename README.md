@@ -44,5 +44,4 @@
 * Библиотеки для машинного обучения: Scikit-learn (sklearn)
 * Гиперпараметры: Optuna
 
-### [Cсылка на Проект 4]()
-
+### [Cсылка на Проект 4](https://github.com/Amina313/Project-4/blob/main/Project_4_ML%20(1).ipynb)
