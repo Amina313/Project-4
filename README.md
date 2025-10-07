@@ -40,7 +40,9 @@
 
 ## Библиотеки
 * Базовые библиотеки: Pandas, NumPy
-* Визуализация: Matplotlib, Seaborn, Plotly
+* Визуализация: Matplotlib, Seaborn
+* Библиотеки для машинного обучения: Scikit-learn (sklearn)
+* Гиперпараметры: Optuna
 
 ### [Cсылка на Проект 4]()
 
